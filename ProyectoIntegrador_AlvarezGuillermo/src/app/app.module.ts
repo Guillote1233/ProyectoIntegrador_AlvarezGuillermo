@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { HomeLogoComponent } from './components/home-logo/home-logo.component';
 import { SocialMediaComponent } from './components/social-media/social-media.component';
 import { BannerComponent } from './components/banner/banner.component';
+import { AboutUsComponent } from './components/about-us/about-us.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { BannerComponent } from './components/banner/banner.component';
     HeaderComponent,
     HomeLogoComponent,
     SocialMediaComponent,
-    BannerComponent
+    BannerComponent,
+    AboutUsComponent
   ],
   imports: [
     BrowserModule,
