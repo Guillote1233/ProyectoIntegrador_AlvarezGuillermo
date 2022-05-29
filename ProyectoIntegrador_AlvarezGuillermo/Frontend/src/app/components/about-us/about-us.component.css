@@ -1,0 +1,22 @@
+.row{
+    padding: 20px;
+}
+
+.img-profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+        
+}
+
+.nombre{
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
